@@ -1,4 +1,5 @@
-## Building Peer-to-Peer SWE-Agents for Fun&Profit!
+## A World of P2P SWE-Agents
+
 <!--
 **moresearch/moresearch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
